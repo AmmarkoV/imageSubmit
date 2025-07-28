@@ -11,7 +11,7 @@ import numpy as np
 
 #Hello world
 # Replace with the actual server URL if different
-ip = "127.0.0.1"
+ip = "147.52.17.119"
 port = "8080"
 
 # Define the user prompt (caption)
